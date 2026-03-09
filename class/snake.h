@@ -12,8 +12,8 @@
 #include <conio.h>
 #include <string>
 
-//#define NOMINMAX
-//#define _WIN32_WINNT 0x0500
+#define NOMINMAX
+#define _WIN32_WINNT 0x0500
 #include <windows.h>
 
 using namespace std;
